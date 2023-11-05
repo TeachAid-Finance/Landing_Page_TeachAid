@@ -8,7 +8,6 @@
 </head>
 
 <body>
-    <!-- Navbar - Luis -->
     <nav id="navbar" class="navbar navbar-expand-lg fixed-top navbar-light" aria-label="Main navigation">
         <div class="container">
             <a class="navbar-brand logo-image" href="index.html"><img
@@ -41,7 +40,6 @@
             </div>
         </div>
     </nav>
-    <!-- Header - Luis-->
     <header id="header" class="header">
         <div class="container">
             <div class="row">
